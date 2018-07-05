@@ -1,0 +1,50 @@
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+    "@type": "Article",
+    "@id": "http://www.dkcy.com/123456",
+    "author": {
+		"@type" : "Person",
+		"Name": "Daniel Kim Chai Yeo",
+		"email": "dan@dkcy.com",
+		"url" : "https://www.dkcy.com/",
+		"sameAs" : [
+		"https://instagram.com/daniel.yeo/",
+		"https://www.linkedin.com/in/dkcyeo/",
+		"https://plus.google.com/+DanielYeoKimChai"
+		]
+    },
+    "datePublished": "2015-03-09T13:08:00-07:00",
+    "dateModified": "2015-03-09T13:08:00-07:00",
+    "headline": "Wow! You won't believe this simple trick",
+    "image": [
+		"http://www.dkcy.com/images/badger.jpg",
+		"http://www.dkcy.com/images/cheese.jpg"
+	],
+    "mainEntityOfPage": {
+      	"@type": "Blog",
+      	"@id": "http://www.dkcy.com",
+      	"name": "the powder room",
+		"url": "http://www.dkcy.com",
+		"about": "random ramblings of a wandering snow monkey",
+		"Audience": {
+			"AudienceType": "policy analysts",
+			"@type": "Audience"
+		}
+     },
+     "publisher": {
+		"@type": "Organization",
+		"name": "Daniel Kim Chai Yeo",
+		"logo": {
+			"@type": "imageObject",
+			"height": "16px",
+			"url": "http://www.dkcy.com/favicon.ico",
+			"width": "16px"
+		}
+     },
+    "name": "Blog blog blog",
+    "keywords": "climate change, cheese, badgers",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "text": "Stuff and things"
+}
+</script>

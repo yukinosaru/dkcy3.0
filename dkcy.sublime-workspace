@@ -1,0 +1,902 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"que",
+				"queryString"
+			],
+			[
+				"em",
+				"emailIsValid"
+			],
+			[
+				"email",
+				"emailValue"
+			],
+			[
+				"is",
+				"isValid"
+			],
+			[
+				"show",
+				"showInput"
+			],
+			[
+				"submti",
+				"submitType"
+			],
+			[
+				"sign",
+				"signInWithEmail"
+			],
+			[
+				"submi",
+				"submitType"
+			],
+			[
+				"sub",
+				"submitType"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"pass",
+				"passwordValue"
+			],
+			[
+				"name",
+				"nameValue"
+			],
+			[
+				"han",
+				"handlePasswordChange"
+			],
+			[
+				"hand",
+				"handlePasswordChange"
+			],
+			[
+				"hadle",
+				"handleNameChange"
+			],
+			[
+				"hn",
+				"handleSubmit"
+			],
+			[
+				"on",
+				"onChange"
+			],
+			[
+				"un",
+				"underlineFocusStyle"
+			],
+			[
+				"pri",
+				"providers"
+			],
+			[
+				"provi",
+				"providers"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"input",
+				"input"
+			],
+			[
+				"handl",
+				"handleEmailChange"
+			],
+			[
+				"sho",
+				"showInput"
+			],
+			[
+				"onc",
+				"onClick"
+			],
+			[
+				"tex",
+				"textAlign"
+			],
+			[
+				"get",
+				"getEmail"
+			],
+			[
+				"signInW",
+				"signInWithGoogle"
+			],
+			[
+				"label",
+				"labelStyle"
+			],
+			[
+				"pro",
+				"provider"
+			],
+			[
+				"button",
+				"buttonInnerStyle"
+			],
+			[
+				"cur",
+				"currentUser"
+			],
+			[
+				"ac",
+				"activities"
+			],
+			[
+				"curr",
+				"currentUser"
+			],
+			[
+				"current",
+				"currentUser"
+			],
+			[
+				"upda",
+				"updateCache"
+			],
+			[
+				"upd",
+				"updateCache"
+			],
+			[
+				"comp",
+				"component"
+			],
+			[
+				"sna",
+				"snackbarMessage"
+			],
+			[
+				"sn",
+				"snackbarIsOpen"
+			],
+			[
+				"snac",
+				"snackbarMessage"
+			],
+			[
+				"snack",
+				"snackbarIsOpen"
+			],
+			[
+				"currn",
+				"currentActivity"
+			],
+			[
+				"child",
+				"childObj"
+			],
+			[
+				"new",
+				"newUser"
+			],
+			[
+				"compo",
+				"component"
+			],
+			[
+				"const",
+				"constructor"
+			],
+			[
+				"Card",
+				"CardText"
+			],
+			[
+				"handleCl",
+				"handleCloseDialog"
+			],
+			[
+				"handleDr",
+				"handleDrawerToggle"
+			],
+			[
+				"hd",
+				"handleDrawerToggle"
+			],
+			[
+				"index",
+				"indexweek"
+			],
+			[
+				"act",
+				"activities"
+			],
+			[
+				"favo",
+				"favourites"
+			],
+			[
+				"key",
+				"keyToDelete"
+			],
+			[
+				"delete",
+				"deleteRef"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"ind",
+				"indexOf"
+			],
+			[
+				"favour",
+				"favourites"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"fav",
+				"favourites"
+			],
+			[
+				"dele",
+				"deleteRef"
+			],
+			[
+				"ke",
+				"keyToDelete"
+			],
+			[
+				"data",
+				"database"
+			],
+			[
+				"firebase",
+				"firebaseFavourites"
+			],
+			[
+				"has",
+				"hasFavourites"
+			],
+			[
+				"fireb",
+				"firebaseFavourites"
+			],
+			[
+				"select",
+				"selectedActivity"
+			],
+			[
+				"fut",
+				"futureActivities"
+			],
+			[
+				"pastA",
+				"pastActivities"
+			],
+			[
+				"currentA",
+				"currentActivities"
+			],
+			[
+				"trasn",
+				"transform-origin"
+			],
+			[
+				"Car",
+				"CardText"
+			],
+			[
+				"Feed",
+				"FeedbackPage"
+			],
+			[
+				"Fee",
+				"FeedbackPage"
+			],
+			[
+				"priv",
+				"Privacy"
+			],
+			[
+				"if",
+				"isFavourite"
+			],
+			[
+				"acti",
+				"activities"
+			],
+			[
+				"Sele",
+				"selectedActivity"
+			],
+			[
+				"compon",
+				"componentWillMount"
+			],
+			[
+				"lacl",
+				"localforage"
+			],
+			[
+				"activ",
+				"activity"
+			],
+			[
+				"se",
+				"selectedActivity"
+			],
+			[
+				"arr",
+				"arrFavourites"
+			],
+			[
+				"make",
+				"makeFavourite"
+			],
+			[
+				"icon",
+				"iconStyle"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"favou",
+				"favouriteStar"
+			],
+			[
+				"activi",
+				"activityTitle"
+			],
+			[
+				"ToggleStar",
+				"ToggleStarBorder"
+			],
+			[
+				"mat",
+				"material-ui"
+			],
+			[
+				"vlai",
+				"validTo"
+			],
+			[
+				"in",
+				"indexweek"
+			],
+			[
+				"setS",
+				"setSelectedActivity"
+			],
+			[
+				"handleD",
+				"handleDrawerClose"
+			],
+			[
+				"grid",
+				"gridListCard"
+			],
+			[
+				"Sub",
+				"Subheader"
+			],
+			[
+				"ma",
+				"material-ui"
+			],
+			[
+				"sele",
+				"selectedActivity"
+			],
+			[
+				"sle",
+				"selectedActivity"
+			],
+			[
+				"childD",
+				"childData"
+			],
+			[
+				"sets",
+				"setSelectedToCurrent"
+			],
+			[
+				"children",
+				"childrenObj"
+			],
+			[
+				"childre",
+				"childrenObj"
+			],
+			[
+				"set",
+				"setDob"
+			],
+			[
+				"local",
+				"localforage"
+			],
+			[
+				"prev",
+				"previousGridList"
+			],
+			[
+				"futu",
+				"futureGridList"
+			],
+			[
+				"previous",
+				"previousActivities"
+			],
+			[
+				"future",
+				"futureActivities"
+			],
+			[
+				"Girl",
+				"GridList"
+			],
+			[
+				"Fire",
+				"FirebaseAuth"
+			],
+			[
+				"redi",
+				"redirect"
+			],
+			[
+				"sin",
+				"signedIn"
+			],
+			[
+				"handleC",
+				"handleCloseDialog"
+			],
+			[
+				"ver",
+				"verifyDelete"
+			],
+			[
+				"dialog",
+				"dialogIsOpen"
+			],
+			[
+				"dial",
+				"dialogIsOpen"
+			],
+			[
+				"deel",
+				"deleteAccount"
+			],
+			[
+				"underst",
+				"understanding"
+			],
+			[
+				"m",
+				"mothering"
+			],
+			[
+				"Terms",
+				"Terms"
+			],
+			[
+				"radio",
+				"radioButtonArray"
+			],
+			[
+				"curren",
+				"currentActivity"
+			],
+			[
+				"Comp",
+				"componentWillMount"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n  <meta charset=“UTF-8\">\n  <meta name=“author” content=“Daniel Yeo”>\n  <!-- For responsive style -->\n  <meta name=\"viewport\" content=\"width=device-width\">\n  <link rel=\"icon\" type=\"image/png\" href=\"images/favicon-32x32.png\" sizes=\"32x32\" />\n  <link rel=\"icon\" type=\"image/png\" href=\"images/favicon-16x16.png\" sizes=\"16x16\" />\n  <title>the powder room</title>\n</head>\n\n<body>\n<!-- Google Analytics -->\n<script>\n(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\nm=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n\nga('create', 'UA-8980484-1', 'auto');\nga('send', 'pageview');\n</script>\n<!-- End Google Analytics -->\n\n<link rel=\"stylesheet\" href=\"style.css\" type=\"text/css\" media=\"screen\" />\n<div id=\"header\">\n  <div id=\"blog-title\">the powder room</div>\n  <div id=\"nav\">\n    <a href=\"https://twitter.com/intent/tweet?text=@yukinosaru\" title=\"Mention me on Twitter\"><img src=\"images\\twitter_48px.png\" alt=\"Mention me on Twitter\" /></a>\n    <a href=\"https://www.linkedin.com/in/dkcyeo\" title=\"My LinkedIn profile\"><img src=\"images\\linkedin_48px.png\" alt=\"My LinkedIn profile\" /></a>\n    <a href=\"https://www.instagram.com/daniel.yeo\" title=\"My Instagram feed\"><img src=\"images\\instagram_48px.png\" alt=\"My Instagram feed\" /></a>\n    <a href=\"mailto:dan@dkcy.com\" title=\"Email me\"><img src=\"images\\gmail_48px.png\" alt=\"Email me\"></a>\n    <a href=\"https://github.com/yukinosaru\" title=\"My GitHub profile\"><img src=\"images\\github_48px.png\" alt=\"My GitHub profile\" /></a>\n    <a href=\"http://www.dkcy.com/feed\" title=\"This site's RSS feed\"><img src=\"images\\rss_48px.png\" alt=\"This site's RSS feed\" /></a>\n  </div>\n</div>\n<div id=\"main\">\n\t<div id=\"hero-image\" style=\"\n\t\tbackground-image: url('images/sixt.jpg');\n\t\tbackground-position: center;\n\t\tbackground-repeat: no-repeat;\n\t\tbackground-size: cover;\" />\n\t<div id=\"full-post-container\">\n\t\t<div className=\"wrapper\">\n\t\t\t<p>Sorry, for some reason, my site has come under various attacks, so I've taken it down whilst I try to plug the security gap. Oh well, it was probably time for a refresh anyway...<br />Find me on social media with the links above. Peace :)</p>\n\t\t</div>\n    </div>\n</div>\n<div id=\"footer\">\n  <span id=\"footer-left\"><a href=\"http://www.dkcy.com/wp-admin\">Admin</a></span>\n  <span id=\"footer-right\">Licensed under <a href=\"https://creativecommons.org/licenses/by-nc-sa/3.0/\" title=\"CC BY-NC-SA\">CC BY-NC-SA</a> by <a href=\"mailto:design@dkcy.com\">dkcy</a></span></div>\n</body>\n</html>",
+			"file": "/Users/danielyeo/Downloads/index.html",
+			"file_size": 2711,
+			"file_write_time": 131649671520000000,
+			"settings":
+			{
+				"buffer_size": 2688,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/danielyeo/Google Drive/WORK/DFID CEW review/Gantt chart.html",
+			"settings":
+			{
+				"buffer_size": 1613,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/danielyeo/workspace/dkcy3.0/dist",
+		"/Users/danielyeo/workspace/dkcy3.0/dist/user",
+		"/Users/danielyeo/workspace/dkcy3.0/dist/user/pages"
+	],
+	"file_history":
+	[
+		"/Users/danielyeo/workspace/dkcy3.0/dist/user/themes/antimatter/thumbnail.jpg",
+		"/Users/danielyeo/workspace/dkcy3.0/dist/user/themes/dkcy/blueprints.yaml",
+		"/Users/danielyeo/workspace/dkcy3.0/dist/user/pages/02.blog/picking-meskel/item.md",
+		"/Users/danielyeo/workspace/dkcy3.0/dist/user/pages/02.blog/diamond-lake/item.md",
+		"/Users/danielyeo/workspace/dkcy3.0/dist/user/pages/02.blog/food-intro/item.md",
+		"/Users/danielyeo/workspace/dkcy3.0/dist/user/pages/02.blog/last-night-in-south-island/item.md",
+		"/Users/danielyeo/workspace/dkcy3.0/dist/user/pages/02.blog/a-journey-of-a-thousand-miles/item.md",
+		"/Users/danielyeo/workspace/dkcy3.0/dist/user/pages/02.blog/authors/admin/author.md",
+		"/Users/danielyeo/workspace/dkcy3.0/dist/index.php",
+		"/Users/danielyeo/Google Drive/WORK/Peak Balance Forme/website/html/_themes/pbforme/templates/contact.html",
+		"/Users/danielyeo/Google Drive/WORK/Peak Balance Forme/website/html/_themes/pbforme/js/pbforme.js",
+		"/Users/danielyeo/Google Drive/WORK/Peak Balance Forme/website/html/_themes/pbforme/css/pbforme.css",
+		"/Users/danielyeo/Google Drive/WORK/Peak Balance Forme/website/html/index.php",
+		"/Users/danielyeo/Google Drive/WORK/Peak Balance Forme/website/html/_content/07-specialised-training:-back-pain-and-chronic-disease/page.md",
+		"/Users/danielyeo/Google Drive/WORK/Peak Balance Forme/website/html/_themes/pbforme/templates/specialised.html",
+		"/Users/danielyeo/Google Drive/WORK/Peak Balance Forme/website/html/_themes/pbforme/templates/stretch.html",
+		"/Users/danielyeo/Google Drive/WORK/Peak Balance Forme/website/html/_content/08-stretching/page.md",
+		"/Users/danielyeo/Google Drive/WORK/Peak Balance Forme/website/html/_config/users/dkcyeo.yaml",
+		"/Users/danielyeo/Google Drive/WORK/Peak Balance Forme/website/html/_themes/pbforme/templates/home.html",
+		"/Users/danielyeo/workspace/dkcy3.0/sampledata.json",
+		"/Users/danielyeo/Google Drive/WORK/Peak Balance Forme/website/html/_themes/index.html",
+		"/Users/danielyeo/workspace/NurtrBaby/dist/manifest.json",
+		"/Users/danielyeo/workspace/NurtrBaby/src/containers/Login/login.js",
+		"/Users/danielyeo/workspace/NurtrBaby/dist/index.html",
+		"/Users/danielyeo/workspace/NurtrBaby/webpack.config.js",
+		"/Users/danielyeo/workspace/NurtrBaby/src/components/Menu/menu.js",
+		"/Users/danielyeo/workspace/NurtrBaby/firebase.json",
+		"/Users/danielyeo/Downloads/nurtrbaby.firebaseapp.com-20171206T095039.json",
+		"/Users/danielyeo/workspace/NurtrBaby/dist/manifest.webapp",
+		"/Users/danielyeo/workspace/NurtrBaby/src/components/Privacy/privacy.js",
+		"/Users/danielyeo/workspace/NurtrBaby/dist/styles/main.css",
+		"/Users/danielyeo/Desktop/test.html",
+		"/Users/danielyeo/workspace/NurtrBaby/src/components/Intro/intro.js",
+		"/Users/danielyeo/workspace/NurtrBaby/src/components/FeedbackPage/feedback-page.js",
+		"/Users/danielyeo/workspace/NurtrBaby/src/components/Terms/terms.js",
+		"/Users/danielyeo/Google Drive/LEARNING/Responsive Grid/fluid-grid.html",
+		"/Users/danielyeo/workspace/NurtrBaby/src/main.js",
+		"/Users/danielyeo/workspace/NurtrBaby/readme.md",
+		"/Users/danielyeo/workspace/NurtrBaby/package.json",
+		"/Users/danielyeo/AndroidstudioProjects/Breadsheet/app/src/main/java/com/dkcy/breadsheet/MainActivity.java",
+		"/Users/danielyeo/Google Drive/WORK/CRIDF/Green Bonds/Data/cbidata.html",
+		"/Users/danielyeo/workspace/NurtrBaby/src/index.html",
+		"/Users/danielyeo/workspace/NurtrBaby/src/manifest.json",
+		"/Users/danielyeo/workspace/BabyLove/readme.md",
+		"/Users/danielyeo/workspace/BabyLove/webpack.config.js",
+		"/Users/danielyeo/workspace/BabyLove/dist/service-worker.js",
+		"/Users/danielyeo/workspace/BabyLove/src/main.js",
+		"/Users/danielyeo/workspace/BabyLove/database.rules.json",
+		"/Users/danielyeo/workspace/BabyLove/src/service-worker.js",
+		"/Users/danielyeo/workspace/BabyLove/package.json",
+		"/Users/danielyeo/workspace/BabyLove/src/manifest.webapp",
+		"/Users/danielyeo/workspace/BabyLove/src/index.html",
+		"/Users/danielyeo/workspace/BabyLove/src/manifest.json",
+		"/Users/danielyeo/workspace/BabyLove/dist/index.html",
+		"/Users/danielyeo/workspace/BabyLove/dist/flexbox.html",
+		"/Users/danielyeo/workspace/BabyLove/src/flexbox.html",
+		"/Users/danielyeo/workspace/BabyLove/firebase.json",
+		"/Users/danielyeo/dkcy-react/src/dkcy.js",
+		"/Users/danielyeo/Dropbox (Personal)/BabyLove App/prototype/app/public/scripts/main.js",
+		"/Users/danielyeo/Dropbox (Personal)/BabyLove App/prototype/app/scripts/main.js",
+		"/Users/danielyeo/workspace/BabyLove/.babelrc",
+		"/Users/danielyeo/Dropbox (Personal)/BabyLove App/prototype/app/scripts/components/App.js",
+		"/Users/danielyeo/Dropbox (Personal)/BabyLove App/prototype/package.json",
+		"/Users/danielyeo/Dropbox (Personal)/BabyLove App/prototype/webpack.config.js",
+		"/Users/danielyeo/Dropbox (Personal)/BabyLove App/prototype/app/index.html",
+		"/Users/danielyeo/workspace/LePouce/app/scripts/main.js",
+		"/Users/danielyeo/Dropbox (Personal)/BabyLove App/prototype/app/.babelrc",
+		"/Users/danielyeo/workspace/LePouce/app/index.html",
+		"/Users/danielyeo/Dropbox (Personal)/BabyLove App/prototype/app/index_MDL.html",
+		"/Users/danielyeo/workspace/BabyLove/index.html",
+		"/Users/danielyeo/Dropbox (Personal)/BabyLove App/prototype/app/styles/main.css",
+		"/Users/danielyeo/Dropbox (Personal)/BabyLove App/prototype/app/scripts/classes.js",
+		"/Users/danielyeo/Dropbox (Personal)/BabyLove App/prototype/app/scripts/main_old.js",
+		"/Users/danielyeo/workspace/LePouce/app/styles/main.css",
+		"/Users/danielyeo/workspace/LePouce/app/manifest.webapp",
+		"/Users/danielyeo/workspace/LePouce/app/service-worker.js",
+		"/Users/danielyeo/workspace/LePouce/app/manifest.json",
+		"/Users/danielyeo/Google Drive/WORK/ICED/Ethiopia WASH review/Data/AWD2017.txt",
+		"/Users/danielyeo/Google Drive/WORK/ICED/Ethiopia WASH review/Data/AWD2017.csvt",
+		"/Users/danielyeo/dkcy-react/src/index.html",
+		"/Users/danielyeo/Dropbox (Personal)/BabyLove App/prototype/app/index_static.html",
+		"/Users/danielyeo/workspace/LePouce/app/basic.html",
+		"/Users/danielyeo/Google Drive/IDEAS/Pouce/Prototype/main.js",
+		"/Users/danielyeo/Desktop/google-services.json",
+		"/Users/danielyeo/Dropbox (Personal)/BabyLove App/prototype/gulpfile.babel.js",
+		"/Users/danielyeo/Dropbox (Personal)/BabyLove App/prototype/app/index_dummy.html",
+		"/Users/danielyeo/Desktop/web-starter-kit-0.6.5/app/index.html",
+		"/Users/danielyeo/Dropbox (Personal)/BabyLove App/prototype/babylove.json",
+		"/Users/danielyeo/Desktop/breadsheet-eaa71-export.json",
+		"/Users/danielyeo/Desktop/breadsheet.json",
+		"/Users/danielyeo/Desktop/razor-mob30x/flash-all.sh",
+		"/Users/danielyeo/Desktop/razor-mob30x/image-razor-mob30x.zip",
+		"/Users/danielyeo/Google Drive/LEARNING/PWA/your-first-pwapp-master/work/index.html",
+		"/Users/danielyeo/Google Drive/WORK/ASI/ICED/Ethiopia WASH review/GIS/CWA2008_report.csvt",
+		"/Users/danielyeo/Google Drive/WORK/ASI/ICED/Ethiopia WASH review/GIS/WMS_San.csvt",
+		"/Users/danielyeo/Google Drive/WORK/ASI/ICED/Ethiopia WASH review/GIS/WMS_DW.csvt",
+		"/Users/danielyeo/Desktop/gapps-config.txt",
+		"/Users/danielyeo/Google Drive/PERSONAL/Les Horizons/N46E006.hgt.zip.aux.xml",
+		"/Users/danielyeo/workspace/fahrenheit451/manifest.json",
+		"/Users/danielyeo/Desktop/extension_template/content.js",
+		"/Users/danielyeo/Google Drive/PERSONAL/Website/src/dkcy.js",
+		"/Users/danielyeo/Google Drive/PERSONAL/Website/src/index.html",
+		"/Users/danielyeo/htdocs/index.html",
+		"/Users/danielyeo/htdocs/dev/index.jsx",
+		"/Users/danielyeo/htdocs/webpack.config.js",
+		"/Users/danielyeo/ReactNativeProj/index.android.js",
+		"/Users/danielyeo/Google Drive/PERSONAL/Website/src/style.scss",
+		"/Users/danielyeo/Google Drive/Design work/Projects/All Saints 2.0/web/style.scss.haml",
+		"/Users/danielyeo/Google Drive/PERSONAL/Website/src/test.scss",
+		"/Users/danielyeo/Google Drive/PERSONAL/Website/src/test.html",
+		"/Users/danielyeo/Desktop/animation.html",
+		"/Users/danielyeo/Google Drive/PERSONAL/Website/src/test.scss.css",
+		"/Users/danielyeo/Google Drive/PERSONAL/Website/Design/animation.html",
+		"/Users/danielyeo/dkcy/src/client/index.html",
+		"/Users/danielyeo/dkcy/webpack.config.js",
+		"/Users/danielyeo/Google Drive/PERSONAL/Website/Design/snippets.html",
+		"/Users/danielyeo/Desktop/breadsheet.html",
+		"/Users/danielyeo/Desktop/breadsheet.js",
+		"/Users/danielyeo/Google Drive/IDEAS/Crossword/crossword.js",
+		"/Users/danielyeo/Google Drive/IDEAS/Breadsheet/breadchart.html",
+		"/Users/danielyeo/Google Drive/PERSONAL/Website/blog.js",
+		"/Users/danielyeo/Google Drive/PERSONAL/Website/Design/cards.html",
+		"/Users/danielyeo/Google Drive/PERSONAL/Website/src/components/posttitle.js",
+		"/Users/danielyeo/Google Drive/PERSONAL/Website/src/components/postdate.js",
+		"/Users/danielyeo/Google Drive/PERSONAL/Website/src/components/postcontent.js",
+		"/Users/danielyeo/Google Drive/PERSONAL/Website/src/components/postimage.js",
+		"/Users/danielyeo/Google Drive/PERSONAL/Website/src/components/snippetpost.js",
+		"/Users/danielyeo/Google Drive/PERSONAL/Website/src/components/highlightpost.js"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/danielyeo/Downloads/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2688,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2107,
+								2107
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 239.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/danielyeo/Google Drive/WORK/DFID CEW review/Gantt chart.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1613,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1329,
+								1329
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 27.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "dkcy.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
